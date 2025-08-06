@@ -3,7 +3,7 @@ from data_sort import *
 
 # Конфигурация
 exe_path = r'C:\Users\Максим\Desktop\letibot\LETI_Parser_2.exe'
-TOKEN = "7995657436:AAFIVQygLKQ9-Gppo1x72u1-wPwmBtAPTts"
+TOKEN = "your_token_here"
 DB_FILE = "abit_ids.json"
 EXCEL_FILE = "результат_распределения.xlsx"
 with open('directions.json', 'r', encoding='utf-8') as f:
@@ -196,4 +196,5 @@ def run_async_in_thread():
 if __name__ == "__main__":
     thread = Thread(target=run_async_in_thread, daemon=True)
     thread.start()
+
     main()

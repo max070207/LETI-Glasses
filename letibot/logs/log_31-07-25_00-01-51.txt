@@ -1,0 +1,306 @@
+2025-07-31 00:01:51.219 +03:00 [INF] INITIALIZED WITH ARGS: [--dev, --logs]
+2025-07-31 00:01:51.239 +03:00 [INF] PARSING DIRECTIONS
+2025-07-31 00:01:51.242 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/page?id=01978f0d-1f93-7ee6-8067-bee68ca59d4f&bodyOnly=true
+2025-07-31 00:01:51.625 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:51.705 +03:00 [INF] PARSED DIRECTIONS COUNT = 25
+2025-07-31 00:01:51.710 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07b9aa40e&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:51.823 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:51.868 +03:00 [INF] Прикладная математика и информатика BUDGET: PARSING ROWS
+2025-07-31 00:01:51.879 +03:00 [INF] Прикладная математика и информатика BUDGET: DONE, COUNT = 219
+2025-07-31 00:01:51.882 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad92230d1&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:51.906 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:51.908 +03:00 [INF] Прикладная математика и информатика CONTRACT: PARSING ROWS
+2025-07-31 00:01:51.911 +03:00 [INF] Прикладная математика и информатика CONTRACT: DONE, COUNT = 14
+2025-07-31 00:01:51.912 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4d38e947&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:51.939 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:51.942 +03:00 [INF] Прикладная математика и информатика ESE: PARSING ROWS
+2025-07-31 00:01:51.944 +03:00 [INF] Прикладная математика и информатика ESE: DONE, COUNT = 8
+2025-07-31 00:01:51.946 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07b0d3074&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.071 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.128 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) BUDGET: PARSING ROWS
+2025-07-31 00:01:52.134 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) BUDGET: DONE, COUNT = 307
+2025-07-31 00:01:52.135 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad8a77d18&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:52.167 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.170 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) CONTRACT: PARSING ROWS
+2025-07-31 00:01:52.173 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) CONTRACT: DONE, COUNT = 24
+2025-07-31 00:01:52.173 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4cffac12&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.206 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.214 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) ESE: PARSING ROWS
+2025-07-31 00:01:52.215 +03:00 [INF] Информатика и вычислительная техника (Искусственный интеллект) ESE: DONE, COUNT = 14
+2025-07-31 00:01:52.217 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c2-74d0-bc95-6f2f7efef844&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.334 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.401 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) BUDGET: PARSING ROWS
+2025-07-31 00:01:52.407 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) BUDGET: DONE, COUNT = 304
+2025-07-31 00:01:52.408 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4adc2d3dfe&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:52.442 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.444 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) CONTRACT: PARSING ROWS
+2025-07-31 00:01:52.446 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) CONTRACT: DONE, COUNT = 6
+2025-07-31 00:01:52.446 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb50ddfd21&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.479 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.481 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) ESE: PARSING ROWS
+2025-07-31 00:01:52.482 +03:00 [INF] Информатика и вычислительная техника (Компьютерное моделирование и проектирование) ESE: DONE, COUNT = 8
+2025-07-31 00:01:52.482 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07a35c71a&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.658 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.744 +03:00 [INF] Информационные системы и технологии BUDGET: PARSING ROWS
+2025-07-31 00:01:52.755 +03:00 [INF] Информационные системы и технологии BUDGET: DONE, COUNT = 392
+2025-07-31 00:01:52.756 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad84e9927&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:52.779 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.782 +03:00 [INF] Информационные системы и технологии CONTRACT: PARSING ROWS
+2025-07-31 00:01:52.783 +03:00 [INF] Информационные системы и технологии CONTRACT: DONE, COUNT = 18
+2025-07-31 00:01:52.784 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4cd9f58e&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.828 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.833 +03:00 [INF] Информационные системы и технологии ESE: PARSING ROWS
+2025-07-31 00:01:52.834 +03:00 [INF] Информационные системы и технологии ESE: DONE, COUNT = 16
+2025-07-31 00:01:52.835 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d0798f1454&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:52.923 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:52.950 +03:00 [INF] Программная инженерия BUDGET: PARSING ROWS
+2025-07-31 00:01:52.964 +03:00 [INF] Программная инженерия BUDGET: DONE, COUNT = 201
+2025-07-31 00:01:52.965 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad7d1ebb5&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:52.997 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.000 +03:00 [INF] Программная инженерия CONTRACT: PARSING ROWS
+2025-07-31 00:01:53.001 +03:00 [INF] Программная инженерия CONTRACT: DONE, COUNT = 25
+2025-07-31 00:01:53.002 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4c25e918&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.034 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.035 +03:00 [INF] Программная инженерия ESE: PARSING ROWS
+2025-07-31 00:01:53.036 +03:00 [INF] Программная инженерия ESE: DONE, COUNT = 6
+2025-07-31 00:01:53.037 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d074e030c9&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.142 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.185 +03:00 [INF] Компьютерная безопасность BUDGET: PARSING ROWS
+2025-07-31 00:01:53.191 +03:00 [INF] Компьютерная безопасность BUDGET: DONE, COUNT = 250
+2025-07-31 00:01:53.192 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad2d981c6&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:53.214 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.216 +03:00 [INF] Компьютерная безопасность CONTRACT: PARSING ROWS
+2025-07-31 00:01:53.226 +03:00 [INF] Компьютерная безопасность CONTRACT: DONE, COUNT = 20
+2025-07-31 00:01:53.227 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb48e00d02&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.255 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.257 +03:00 [INF] Компьютерная безопасность ESE: PARSING ROWS
+2025-07-31 00:01:53.259 +03:00 [INF] Компьютерная безопасность ESE: DONE, COUNT = 5
+2025-07-31 00:01:53.259 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d078fa5109&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.362 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.391 +03:00 [INF] Радиотехника (Системы компьютерного зрения) BUDGET: PARSING ROWS
+2025-07-31 00:01:53.398 +03:00 [INF] Радиотехника (Системы компьютерного зрения) BUDGET: DONE, COUNT = 260
+2025-07-31 00:01:53.399 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad63b29aa&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:53.419 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.420 +03:00 [INF] Радиотехника (Системы компьютерного зрения) CONTRACT: PARSING ROWS
+2025-07-31 00:01:53.421 +03:00 [INF] Радиотехника (Системы компьютерного зрения) CONTRACT: DONE, COUNT = 1
+2025-07-31 00:01:53.421 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4ae2f395&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.448 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.450 +03:00 [INF] Радиотехника (Системы компьютерного зрения) ESE: PARSING ROWS
+2025-07-31 00:01:53.452 +03:00 [INF] Радиотехника (Системы компьютерного зрения) ESE: DONE, COUNT = 6
+2025-07-31 00:01:53.452 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c2-74d0-bc95-6f2f7db82454&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.551 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.592 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) BUDGET: PARSING ROWS
+2025-07-31 00:01:53.599 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) BUDGET: DONE, COUNT = 246
+2025-07-31 00:01:53.601 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad9bfbf81&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:53.619 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.621 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) CONTRACT: PARSING ROWS
+2025-07-31 00:01:53.622 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) CONTRACT: DONE, COUNT = 0
+2025-07-31 00:01:53.622 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4ed32819&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.651 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.653 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) ESE: PARSING ROWS
+2025-07-31 00:01:53.654 +03:00 [INF] Радиотехника (Цифровые системы локации, связи и навигации) ESE: DONE, COUNT = 11
+2025-07-31 00:01:53.655 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c2-74d0-bc95-6f2f7e16128a&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.757 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.801 +03:00 [INF] Инфокоммуникационные технологии и системы связи BUDGET: PARSING ROWS
+2025-07-31 00:01:53.808 +03:00 [INF] Инфокоммуникационные технологии и системы связи BUDGET: DONE, COUNT = 265
+2025-07-31 00:01:53.809 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4adb438784&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:53.833 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.834 +03:00 [INF] Инфокоммуникационные технологии и системы связи CONTRACT: PARSING ROWS
+2025-07-31 00:01:53.835 +03:00 [INF] Инфокоммуникационные технологии и системы связи CONTRACT: DONE, COUNT = 5
+2025-07-31 00:01:53.836 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4fe1773e&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.877 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:53.881 +03:00 [INF] Инфокоммуникационные технологии и системы связи ESE: PARSING ROWS
+2025-07-31 00:01:53.882 +03:00 [INF] Инфокоммуникационные технологии и системы связи ESE: DONE, COUNT = 6
+2025-07-31 00:01:53.883 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07922eaf2&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:53.980 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.002 +03:00 [INF] Конструирование и технология электронных средств BUDGET: PARSING ROWS
+2025-07-31 00:01:54.005 +03:00 [INF] Конструирование и технология электронных средств BUDGET: DONE, COUNT = 253
+2025-07-31 00:01:54.005 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad7013193&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.020 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.021 +03:00 [INF] Конструирование и технология электронных средств CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.022 +03:00 [INF] Конструирование и технология электронных средств CONTRACT: DONE, COUNT = 0
+2025-07-31 00:01:54.022 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4b375dd3&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.061 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.073 +03:00 [INF] Конструирование и технология электронных средств ESE: PARSING ROWS
+2025-07-31 00:01:54.075 +03:00 [INF] Конструирование и технология электронных средств ESE: DONE, COUNT = 15
+2025-07-31 00:01:54.076 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d078366de1&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.174 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.237 +03:00 [INF] Электроника и наноэлектроника BUDGET: PARSING ROWS
+2025-07-31 00:01:54.243 +03:00 [INF] Электроника и наноэлектроника BUDGET: DONE, COUNT = 508
+2025-07-31 00:01:54.244 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad5aa5692&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.261 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.263 +03:00 [INF] Электроника и наноэлектроника CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.264 +03:00 [INF] Электроника и наноэлектроника CONTRACT: DONE, COUNT = 5
+2025-07-31 00:01:54.265 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4a8ae2b0&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.295 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.298 +03:00 [INF] Электроника и наноэлектроника ESE: PARSING ROWS
+2025-07-31 00:01:54.309 +03:00 [INF] Электроника и наноэлектроника ESE: DONE, COUNT = 17
+2025-07-31 00:01:54.310 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d0798f07ab&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.352 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.359 +03:00 [INF] Радиоэлектронные системы и комплексы BUDGET: PARSING ROWS
+2025-07-31 00:01:54.361 +03:00 [INF] Радиоэлектронные системы и комплексы BUDGET: DONE, COUNT = 150
+2025-07-31 00:01:54.362 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad7c6b3de&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.380 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.402 +03:00 [INF] Радиоэлектронные системы и комплексы CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.403 +03:00 [INF] Радиоэлектронные системы и комплексы CONTRACT: DONE, COUNT = 2
+2025-07-31 00:01:54.404 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4bab5863&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.430 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.432 +03:00 [INF] Радиоэлектронные системы и комплексы ESE: PARSING ROWS
+2025-07-31 00:01:54.434 +03:00 [INF] Радиоэлектронные системы и комплексы ESE: DONE, COUNT = 14
+2025-07-31 00:01:54.434 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c2-74d0-bc95-6f2f7dc34dcd&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.538 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.579 +03:00 [INF] Приборостроение (Интеллектуальные системы) BUDGET: PARSING ROWS
+2025-07-31 00:01:54.595 +03:00 [INF] Приборостроение (Интеллектуальные системы) BUDGET: DONE, COUNT = 390
+2025-07-31 00:01:54.596 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ada64c2e7&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.614 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.615 +03:00 [INF] Приборостроение (Интеллектуальные системы) CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.616 +03:00 [INF] Приборостроение (Интеллектуальные системы) CONTRACT: DONE, COUNT = 3
+2025-07-31 00:01:54.617 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4f8d94fe&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.647 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.650 +03:00 [INF] Приборостроение (Интеллектуальные системы) ESE: PARSING ROWS
+2025-07-31 00:01:54.651 +03:00 [INF] Приборостроение (Интеллектуальные системы) ESE: DONE, COUNT = 17
+2025-07-31 00:01:54.652 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d0726ef831&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.690 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.713 +03:00 [INF] Биотехнические системы и технологии BUDGET: PARSING ROWS
+2025-07-31 00:01:54.723 +03:00 [INF] Биотехнические системы и технологии BUDGET: DONE, COUNT = 128
+2025-07-31 00:01:54.724 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4acf71af2d&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.743 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.744 +03:00 [INF] Биотехнические системы и технологии CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.745 +03:00 [INF] Биотехнические системы и технологии CONTRACT: DONE, COUNT = 8
+2025-07-31 00:01:54.746 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cecc035389&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.768 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.769 +03:00 [INF] Биотехнические системы и технологии ESE: PARSING ROWS
+2025-07-31 00:01:54.769 +03:00 [INF] Биотехнические системы и технологии ESE: DONE, COUNT = 0
+2025-07-31 00:01:54.770 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d073fe3fdb&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.843 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.884 +03:00 [INF] Электроэнергетика и электротехника BUDGET: PARSING ROWS
+2025-07-31 00:01:54.890 +03:00 [INF] Электроэнергетика и электротехника BUDGET: DONE, COUNT = 360
+2025-07-31 00:01:54.891 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad090df65&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:54.910 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.911 +03:00 [INF] Электроэнергетика и электротехника CONTRACT: PARSING ROWS
+2025-07-31 00:01:54.912 +03:00 [INF] Электроэнергетика и электротехника CONTRACT: DONE, COUNT = 4
+2025-07-31 00:01:54.913 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cecde6c752&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.939 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:54.941 +03:00 [INF] Электроэнергетика и электротехника ESE: PARSING ROWS
+2025-07-31 00:01:54.942 +03:00 [INF] Электроэнергетика и электротехника ESE: DONE, COUNT = 9
+2025-07-31 00:01:54.943 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07366ee1c&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:54.972 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.003 +03:00 [INF] Мехатроника и робототехника BUDGET: PARSING ROWS
+2025-07-31 00:01:55.005 +03:00 [INF] Мехатроника и робототехника BUDGET: DONE, COUNT = 74
+2025-07-31 00:01:55.006 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad082069f&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.026 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.028 +03:00 [INF] Мехатроника и робототехника CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.029 +03:00 [INF] Мехатроника и робототехника CONTRACT: DONE, COUNT = 24
+2025-07-31 00:01:55.030 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cecd340477&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.051 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.052 +03:00 [INF] Мехатроника и робототехника ESE: PARSING ROWS
+2025-07-31 00:01:55.053 +03:00 [INF] Мехатроника и робототехника ESE: DONE, COUNT = 2
+2025-07-31 00:01:55.054 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d071ac9b3a&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.093 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.097 +03:00 [INF] Техносферная безопасность BUDGET: PARSING ROWS
+2025-07-31 00:01:55.099 +03:00 [INF] Техносферная безопасность BUDGET: DONE, COUNT = 87
+2025-07-31 00:01:55.100 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2672-7dfc-bee5-f0800b30001f&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.114 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.115 +03:00 [INF] Техносферная безопасность CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.116 +03:00 [INF] Техносферная безопасность CONTRACT: DONE, COUNT = 2
+2025-07-31 00:01:55.117 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cecb27e44a&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.138 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.139 +03:00 [INF] Техносферная безопасность ESE: PARSING ROWS
+2025-07-31 00:01:55.141 +03:00 [INF] Техносферная безопасность ESE: DONE, COUNT = 0
+2025-07-31 00:01:55.141 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d077fe9e14&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.199 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.203 +03:00 [INF] Управление качеством BUDGET: PARSING ROWS
+2025-07-31 00:01:55.205 +03:00 [INF] Управление качеством BUDGET: DONE, COUNT = 35
+2025-07-31 00:01:55.206 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad4e4a5d9&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.221 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.222 +03:00 [INF] Управление качеством CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.223 +03:00 [INF] Управление качеством CONTRACT: DONE, COUNT = 0
+2025-07-31 00:01:55.224 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4a7e3079&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.251 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.253 +03:00 [INF] Управление качеством ESE: PARSING ROWS
+2025-07-31 00:01:55.254 +03:00 [INF] Управление качеством ESE: DONE, COUNT = 2
+2025-07-31 00:01:55.255 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d074435fb0&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.302 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.309 +03:00 [INF] Системный анализ и управление BUDGET: PARSING ROWS
+2025-07-31 00:01:55.322 +03:00 [INF] Системный анализ и управление BUDGET: DONE, COUNT = 124
+2025-07-31 00:01:55.324 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad1e4963f&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.351 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.352 +03:00 [INF] Системный анализ и управление CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.354 +03:00 [INF] Системный анализ и управление CONTRACT: DONE, COUNT = 5
+2025-07-31 00:01:55.355 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4874ddb9&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.378 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.379 +03:00 [INF] Системный анализ и управление ESE: PARSING ROWS
+2025-07-31 00:01:55.380 +03:00 [INF] Системный анализ и управление ESE: DONE, COUNT = 1
+2025-07-31 00:01:55.381 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d073071d98&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.429 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.478 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) BUDGET: PARSING ROWS
+2025-07-31 00:01:55.481 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) BUDGET: DONE, COUNT = 223
+2025-07-31 00:01:55.482 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad05027e1&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.500 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.501 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.502 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) CONTRACT: DONE, COUNT = 10
+2025-07-31 00:01:55.503 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cecc9c261d&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.524 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.526 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) ESE: PARSING ROWS
+2025-07-31 00:01:55.527 +03:00 [INF] Управление в технических системах (Автоматика и робототехнические системы) ESE: DONE, COUNT = 2
+2025-07-31 00:01:55.528 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07410563f&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.574 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.585 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) BUDGET: PARSING ROWS
+2025-07-31 00:01:55.587 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) BUDGET: DONE, COUNT = 160
+2025-07-31 00:01:55.587 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad0f425c3&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:55.603 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.604 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) CONTRACT: PARSING ROWS
+2025-07-31 00:01:55.605 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) CONTRACT: DONE, COUNT = 4
+2025-07-31 00:01:55.606 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fd-70cd-b53c-e2cece11c549&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:55.628 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:55.629 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) ESE: PARSING ROWS
+2025-07-31 00:01:55.630 +03:00 [INF] Управление в технических системах (Компьютерные интеллектуальные технологии управления в технических системах) ESE: DONE, COUNT = 1
+2025-07-31 00:01:55.631 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d077328fa5&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:56.831 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:56.840 +03:00 [INF] Инноватика BUDGET: PARSING ROWS
+2025-07-31 00:01:56.841 +03:00 [INF] Инноватика BUDGET: DONE, COUNT = 59
+2025-07-31 00:01:56.842 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad458dc36&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:56.864 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:56.865 +03:00 [INF] Инноватика CONTRACT: PARSING ROWS
+2025-07-31 00:01:56.866 +03:00 [INF] Инноватика CONTRACT: DONE, COUNT = 16
+2025-07-31 00:01:56.867 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4a02da9a&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:56.890 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:56.891 +03:00 [INF] Инноватика ESE: PARSING ROWS
+2025-07-31 00:01:56.892 +03:00 [INF] Инноватика ESE: DONE, COUNT = 1
+2025-07-31 00:01:56.893 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d07c7a8562&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:56.954 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:56.975 +03:00 [INF] Нанотехнологии и микросистемная техника BUDGET: PARSING ROWS
+2025-07-31 00:01:56.999 +03:00 [INF] Нанотехнологии и микросистемная техника BUDGET: DONE, COUNT = 282
+2025-07-31 00:01:57.001 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad96ec847&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:57.017 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.018 +03:00 [INF] Нанотехнологии и микросистемная техника CONTRACT: PARSING ROWS
+2025-07-31 00:01:57.019 +03:00 [INF] Нанотехнологии и микросистемная техника CONTRACT: DONE, COUNT = 0
+2025-07-31 00:01:57.020 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb4e249319&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:57.041 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.043 +03:00 [INF] Нанотехнологии и микросистемная техника ESE: PARSING ROWS
+2025-07-31 00:01:57.044 +03:00 [INF] Нанотехнологии и микросистемная техника ESE: DONE, COUNT = 1
+2025-07-31 00:01:57.044 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d0768b385d&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:57.068 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.069 +03:00 [INF] Реклама и связи с общественностью BUDGET: PARSING ROWS
+2025-07-31 00:01:57.071 +03:00 [INF] Реклама и связи с общественностью BUDGET: DONE, COUNT = 5
+2025-07-31 00:01:57.071 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad44af05b&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:57.100 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.105 +03:00 [INF] Реклама и связи с общественностью CONTRACT: PARSING ROWS
+2025-07-31 00:01:57.106 +03:00 [INF] Реклама и связи с общественностью CONTRACT: DONE, COUNT = 76
+2025-07-31 00:01:57.107 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:57.115 +03:00 [INF] RESPONSE STATUS = NotFound
+2025-07-31 00:01:57.117 +03:00 [INF] Реклама и связи с общественностью ESE: PARSING ROWS
+2025-07-31 00:01:57.118 +03:00 [INF] Реклама и связи с общественностью ESE: DONE, COUNT = 0
+2025-07-31 00:01:57.119 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f26-62c1-7a35-8181-19d075c339dc&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:57.145 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.147 +03:00 [INF] Лингвистика BUDGET: PARSING ROWS
+2025-07-31 00:01:57.148 +03:00 [INF] Лингвистика BUDGET: DONE, COUNT = 20
+2025-07-31 00:01:57.149 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=01978f38-2673-7b74-86cf-7e4ad3ce716b&bodyOnly=true&filters&filters%5B%5D=contract_signed&filters%5B%5D=contract_paid
+2025-07-31 00:01:57.178 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.180 +03:00 [INF] Лингвистика CONTRACT: PARSING ROWS
+2025-07-31 00:01:57.181 +03:00 [INF] Лингвистика CONTRACT: DONE, COUNT = 26
+2025-07-31 00:01:57.182 +03:00 [INF] SENDING REQUEST TO: https://lists.priem.etu.ru/public/list?id=0197ea6a-92fe-7b58-b32c-97fb49a15c7c&bodyOnly=true&filters%5B%5D=has_agreement
+2025-07-31 00:01:57.205 +03:00 [INF] RESPONSE STATUS = OK
+2025-07-31 00:01:57.206 +03:00 [INF] Лингвистика ESE: PARSING ROWS
+2025-07-31 00:01:57.207 +03:00 [INF] Лингвистика ESE: DONE, COUNT = 0
+2025-07-31 00:02:02.165 +03:00 [INF] PROGRAM EXECUTION TIME = 00:00:10.9448758
